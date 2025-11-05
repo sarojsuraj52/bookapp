@@ -1,0 +1,9 @@
+.book-container:hover {
+  scale: 1.05;
+  /* box-shadow: rgba(0, 0, 0, 0.3) 2px 2px 30px 0px, rgba(0, 0, 0, 0.14) 0px 0px 0px 0px, rgba(0, 0, 0, 0.12) 0px 4px 20px 0px !important; */
+}
+
+.book-container a:hover {
+  color: rgb(21, 125, 252) !important;
+}
+

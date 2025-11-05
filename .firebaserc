@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "bookshistoryapp",
+    "hosting": "bookshistoryapp"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
